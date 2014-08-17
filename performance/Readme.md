@@ -1,4 +1,4 @@
-#Links h1
+#Links
 
 ##Pre-processors
 - [Sass](http://sass-lang.com/)
