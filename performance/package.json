@@ -1,0 +1,29 @@
+{
+  "name": "performance",
+  "version": "0.0.0",
+  "description": "gulpfile for optimization",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willianjusten/hangouts.git"
+  },
+  "keywords": [
+    "gulpfile",
+    "performance",
+    "hangout"
+  ],
+  "author": "Willian Justen <willianjustenqui@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willianjusten/hangouts/issues"
+  },
+  "homepage": "https://github.com/willianjusten/hangouts",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.3.4",
+    "gulp-uglify": "^0.3.1"
+  }
+}
