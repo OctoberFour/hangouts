@@ -1,0 +1,11 @@
+/* line 1, ../sass/_top.scss */
+header {
+  background: #ff0010;
+  height: 400px;
+}
+
+/* line 1, ../sass/_footer.scss */
+footer {
+  background: #0020ff;
+  height: 200px;
+}
