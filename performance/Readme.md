@@ -1,27 +1,24 @@
 #Links
 
-##Performance 
+##Ferramentas de Automação 
 
 Gulp  | Grunt
 ------------- | -------------
 - [Sobre o Gulp](http://gulpjs.com/)  | - [Tradução da documentação do GruntJS](https://github.com/gruntbrasil/grunt-docs)
 - [Como utilizar](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)  | - [Comunidade Brasileira](https://github.com/gruntbrasil)
-- [Lista de Plugins](http://gratimax.github.io/search-gulp-plugins/)  | - [Alguns Plugins](https://github.com/gruntbrasil/docs-grunt-plugins)
+- [Lista de Plugins](http://gratimax.github.io/search-gulp-plugins/)  | - [Lista de Plugins](http://gruntjs.com/plugins)
 
-
-##Pre-processors
-- [Sass](http://sass-lang.com/)
-- [Less](http://lesscss.org/)
-- [Stylus](http://learnboost.github.io/stylus/)
-
-
-##Frameworks CSS
-- [Getbootstrap](http://getbootstrap.com/)
-- [Fondation](http://foundation.zurb.com/)
-- [Furatto](http://icalialabs.github.io/furatto/index.html)
-- [Pure](http://purecss.io/)
-- [Gumby](http://gumbyframework.com/)
+##Ferramentas de Análise
+- [PageSpeed Google](https://developers.google.com/speed/pagespeed/)
+- [YSlow](https://developer.yahoo.com/yslow/)
+- [Pingdom](http://tools.pingdom.com/fpt/)
+- [WebPageTest](http://www.webpagetest.org/)
+- [GTmetrix](http://gtmetrix.com/)
 
 ##Boas Práticas
-- [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
+
 - [Performance & Organization](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
+- [PageSpped Insights Rules](https://developers.google.com/speed/docs/insights/rules)
+- [YSlow Rules](https://developer.yahoo.com/performance/rules.html)
+- [BrowserDiet](http://browserdiet.com/pt/)
+- [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
