@@ -8,6 +8,13 @@ Gulp  | Grunt
 - [Como utilizar](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)  | - [Comunidade Brasileira](https://github.com/gruntbrasil)
 - [Lista de Plugins](http://gratimax.github.io/search-gulp-plugins/)  | - [Lista de Plugins](http://gruntjs.com/plugins)
 
+###Plugins utilizados no Gulp
+- [Gulp-concat](https://www.npmjs.org/package/gulp-concat)
+- [Gulp-uglify](https://www.npmjs.org/package/gulp-uglify)
+- [Gulp-compass](https://www.npmjs.org/package/gulp-compass)
+- [Gulp-cssmin](https://www.npmjs.org/package/gulp-cssmin)
+- [Gulp-if](https://www.npmjs.org/package/gulp-if)
+
 ##Ferramentas de Análise
 - [PageSpeed Google](https://developers.google.com/speed/pagespeed/)
 - [YSlow](https://developer.yahoo.com/yslow/)

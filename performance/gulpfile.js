@@ -1,3 +1,6 @@
+// gulp -p => for minify and production
+// gulp => default with sourcemaps
+
 var env = require('minimist')(process.argv.slice(2)),
 	gulp = require('gulp'),
 	concat = require('gulp-concat'),
