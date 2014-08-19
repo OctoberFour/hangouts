@@ -8,13 +8,6 @@ Gulp  | Grunt
 - [Como utilizar](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)  | - [Comunidade Brasileira](https://github.com/gruntbrasil)
 - [Lista de Plugins](http://gratimax.github.io/search-gulp-plugins/)  | - [Lista de Plugins](http://gruntjs.com/plugins)
 
-###Plugins utilizados no Gulp
-- [Gulp-concat](https://www.npmjs.org/package/gulp-concat)
-- [Gulp-uglify](https://www.npmjs.org/package/gulp-uglify)
-- [Gulp-compass](https://www.npmjs.org/package/gulp-compass)
-- [Gulp-cssmin](https://www.npmjs.org/package/gulp-cssmin)
-- [Gulp-if](https://www.npmjs.org/package/gulp-if)
-
 ##Ferramentas de Análise
 - [PageSpeed Google](https://developers.google.com/speed/pagespeed/)
 - [YSlow](https://developer.yahoo.com/yslow/)
@@ -29,3 +22,15 @@ Gulp  | Grunt
 - [YSlow Rules](https://developer.yahoo.com/performance/rules.html)
 - [BrowserDiet](http://browserdiet.com/pt/)
 - [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
+
+
+###Plugins utilizados no Gulp
+- [Gulp-concat](https://www.npmjs.org/package/gulp-concat)
+- [Gulp-uglify](https://www.npmjs.org/package/gulp-uglify)
+- [Gulp-compass](https://www.npmjs.org/package/gulp-compass)
+- [Gulp-cssmin](https://www.npmjs.org/package/gulp-cssmin)
+- [Gulp-if](https://www.npmjs.org/package/gulp-if)
+- [Gulp-htmlmin](https://github.com/jonschlinkert/gulp-htmlmin)
+- [Gulp-connect](https://www.npmjs.org/package/gulp-connect)
+- [Gulp-imagemin](https://www.npmjs.org/package/gulp-imagemin)
+- [Connect-modrewrite](https://www.npmjs.org/package/connect-modrewrite)
