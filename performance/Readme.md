@@ -33,7 +33,9 @@ Gulp  | Grunt
 
 ##Talks
 - [Performance as a Twitter feature - Marcel Duran - BrazilJS 2013](https://www.youtube.com/watch?v=RFFEAK1njpo&list=PLg2lQYZDBwOSyKzM1_nH-jrBGnwjG6JDt)
--- [Slides](http://www.slideshare.net/slideshow/embed_code/25502561#)
+<dl>
+	<dd> - [Slides](http://www.slideshare.net/slideshow/embed_code/25502561#)</dd>
+</dl>
 
 ###Plugins utilizados no Gulp
 - [Gulp-concat](https://www.npmjs.org/package/gulp-concat)
