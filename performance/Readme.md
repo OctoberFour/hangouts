@@ -27,6 +27,9 @@ Gulp  | Grunt
 
 ##Artigos
 - [Tableless - Performance front-end : Parte 1](http://tableless.com.br/performance-frontend-parte1/)
+- [Gulp: O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
+- [Grunt: você deveria estar usando!](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
+
 
 
 ##Talks
@@ -45,6 +48,7 @@ Gulp  | Grunt
 - [Building With Gulp](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
 - [Gulp JS: como se tornar Expert em minutos](http://morethings.io/javascript/gulpjs-como-se-tornar-expert-em-minutos/)
 - [Bye bye Grunt.js, hello Gulp.js!](http://blog.caelum.com.br/bye-bye-grunt-js-hello-gulp-js/)
+
 
 ###Plugins utilizados no Gulp
 - [Gulp-concat](https://www.npmjs.org/package/gulp-concat)
