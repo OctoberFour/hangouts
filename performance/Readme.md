@@ -26,10 +26,11 @@ Gulp  | Grunt
 
 
 ##Artigos
+
 - [Tableless - Performance front-end : Parte 1](http://tableless.com.br/performance-frontend-parte1/)
+- [Tableless - Performance front-end : Parte 2](http://tableless.com.br/performance-frontend-parte2/)
 - [Gulp: O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
 - [Grunt: você deveria estar usando!](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
-
 
 
 ##Talks
