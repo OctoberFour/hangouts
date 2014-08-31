@@ -11,6 +11,6 @@ Aqui vão entrar os links relacionados ao que conversamos no hangout.
 
 
 ##Books
--[Pro Git](https://leanpub.com/pro-git)
--[Pratical Git and GitHub](https://leanpub.com/Practical_Git/)
+- [Pro Git](https://leanpub.com/pro-git)
+- [Pratical Git and GitHub](https://leanpub.com/Practical_Git/)
   
