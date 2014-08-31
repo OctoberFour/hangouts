@@ -22,6 +22,33 @@ Gulp  | Grunt
 - [YSlow Rules](https://developer.yahoo.com/performance/rules.html)
 - [BrowserDiet](http://browserdiet.com/pt/)
 - [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
+- [Steve Souders - Web Performance Optimization](http://www.stevesouders.com/blog/2010/05/07/wpo-web-performance-optimization/)
+
+
+##Artigos
+
+- [Tableless - Performance front-end : Parte 1](http://tableless.com.br/performance-frontend-parte1/)
+- [Tableless - Performance front-end : Parte 2](http://tableless.com.br/performance-frontend-parte2/)
+- [Gulp: O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
+- [Grunt: você deveria estar usando!](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
+
+
+##Talks
+- [Performance as a Twitter feature - Marcel Duran - BrazilJS 2013](https://www.youtube.com/watch?v=RFFEAK1njpo&list=PLg2lQYZDBwOSyKzM1_nH-jrBGnwjG6JDt)
+	- [Slides](http://www.slideshare.net/slideshow/embed_code/25502561#)
+
+
+##Artigos Comparativos
+
+- [Build Wars](http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/#1)
+- [Grunt, Gulp or NPM](http://modernweb.com/2014/08/04/choose-grunt-gulp-npm/)
+
+##Artigos sobre o Gulp
+
+- [Managing Your Build Tasks With Gulp.js](http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910)
+- [Building With Gulp](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
+- [Gulp JS: como se tornar Expert em minutos](http://morethings.io/javascript/gulpjs-como-se-tornar-expert-em-minutos/)
+- [Bye bye Grunt.js, hello Gulp.js!](http://blog.caelum.com.br/bye-bye-grunt-js-hello-gulp-js/)
 
 
 ###Plugins utilizados no Gulp
