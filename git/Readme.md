@@ -2,6 +2,6 @@
 
 Aqui vão entrar os links relacionados ao que conversamos no hangout. 
 
-#links
+#Links
 
--[guia pratico git](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+- [Guia Pratico Git](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
