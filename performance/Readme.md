@@ -8,8 +8,6 @@ Gulp  | Grunt
 - [Como utilizar](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)  | - [Comunidade Brasileira](https://github.com/gruntbrasil)
 - [Lista de Plugins](http://gratimax.github.io/search-gulp-plugins/)  | - [Lista de Plugins](http://gruntjs.com/plugins)
 
-- [Build Wars](http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/#1)
-
 ##Ferramentas de Análise
 - [PageSpeed Google](https://developers.google.com/speed/pagespeed/)
 - [YSlow](https://developer.yahoo.com/yslow/)
@@ -28,14 +26,30 @@ Gulp  | Grunt
 
 
 ##Artigos
+
 - [Tableless - Performance front-end : Parte 1](http://tableless.com.br/performance-frontend-parte1/)
+- [Tableless - Performance front-end : Parte 2](http://tableless.com.br/performance-frontend-parte2/)
+- [Gulp: O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
+- [Grunt: você deveria estar usando!](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
 
 
 ##Talks
 - [Performance as a Twitter feature - Marcel Duran - BrazilJS 2013](https://www.youtube.com/watch?v=RFFEAK1njpo&list=PLg2lQYZDBwOSyKzM1_nH-jrBGnwjG6JDt)
-<dl>
-	<dd> - [Slides](http://www.slideshare.net/slideshow/embed_code/25502561#)</dd>
-</dl>
+	- [Slides](http://www.slideshare.net/slideshow/embed_code/25502561#)
+
+
+##Artigos Comparativos
+
+- [Build Wars](http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/#1)
+- [Grunt, Gulp or NPM](http://modernweb.com/2014/08/04/choose-grunt-gulp-npm/)
+
+##Artigos sobre o Gulp
+
+- [Managing Your Build Tasks With Gulp.js](http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910)
+- [Building With Gulp](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
+- [Gulp JS: como se tornar Expert em minutos](http://morethings.io/javascript/gulpjs-como-se-tornar-expert-em-minutos/)
+- [Bye bye Grunt.js, hello Gulp.js!](http://blog.caelum.com.br/bye-bye-grunt-js-hello-gulp-js/)
+
 
 ###Plugins utilizados no Gulp
 - [Gulp-concat](https://www.npmjs.org/package/gulp-concat)
@@ -47,11 +61,3 @@ Gulp  | Grunt
 - [Gulp-connect](https://www.npmjs.org/package/gulp-connect)
 - [Gulp-imagemin](https://www.npmjs.org/package/gulp-imagemin)
 - [Connect-modrewrite](https://www.npmjs.org/package/connect-modrewrite)
-
-
-##Artigos sobre o GulpJS
-
-- [Managing Your Build Tasks With Gulp.js](http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910)
-- [Building With Gulp](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
-- [Gulp JS: como se tornar Expert em minutos](http://morethings.io/javascript/gulpjs-como-se-tornar-expert-em-minutos/)
-- [Bye bye Grunt.js, hello Gulp.js!](http://blog.caelum.com.br/bye-bye-grunt-js-hello-gulp-js/)
