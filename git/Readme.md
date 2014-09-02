@@ -1,4 +1,4 @@
-# Git
+﻿# Git
 
 Aqui vão entrar os links relacionados ao que conversamos no hangout. 
 
@@ -8,6 +8,7 @@ Aqui vão entrar os links relacionados ao que conversamos no hangout.
 - [Documentação Oficial](http://git-scm.com/doc)
 - [5 comandos git para aumentar sua produtividade](http://www.hugobessa.com.br/posts/5-comandos-git-produtividade/)
 - [Git Tutorials](https://www.atlassian.com/git/workflows#!workflow-overview)
+- [Vídeo aulas básicas sobre GIT](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 
 
 ##Books
