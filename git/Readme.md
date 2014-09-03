@@ -14,4 +14,8 @@ Aqui vão entrar os links relacionados ao que conversamos no hangout.
 ##Books
 - [Pro Git](https://leanpub.com/pro-git)
 - [Pratical Git and GitHub](https://leanpub.com/Practical_Git/)
+
+
+##Artigos e Tutoriais
+- [Sincronizando um fork (Syncing a fork)](https://help.github.com/articles/syncing-a-fork)
   
