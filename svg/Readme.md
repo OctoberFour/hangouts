@@ -16,7 +16,8 @@ Talk do Hangout: [Play SVG - Utilizando vetores na web](https://docs.google.com/
 - [A Compendium of SVG Information](http://css-tricks.com/mega-list-svg-information/)
 - [Codrops - SVG](http://tympanus.net/codrops/?s=svg)
 - [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg)
-
+- [Entendendo e usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773)
+- [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/)
 
 
 ##Ferramentas
