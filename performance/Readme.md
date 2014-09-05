@@ -14,6 +14,7 @@ Gulp  | Grunt
 - [Pingdom](http://tools.pingdom.com/fpt/)
 - [WebPageTest](http://www.webpagetest.org/)
 - [GTmetrix](http://gtmetrix.com/)
+- [Fiddler](http://www.telerik.com/fiddler)
 
 ##Boas Práticas
 
@@ -31,6 +32,7 @@ Gulp  | Grunt
 - [Tableless - Performance front-end : Parte 2](http://tableless.com.br/performance-frontend-parte2/)
 - [Gulp: O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
 - [Grunt: você deveria estar usando!](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
+- [Performance & Organization](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 
 
 ##Talks
