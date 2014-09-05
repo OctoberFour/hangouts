@@ -11,6 +11,9 @@ Aqui vão entrar os links relacionados ao que conversamos no hangout.
 - [Vídeo aulas básicas sobre GIT](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 - [Sincronizando um fork (Syncing a fork)](https://help.github.com/articles/syncing-a-fork)
 - [Try Git: Code School](https://try.github.io/levels/1/challenges/1)
+- [Controle de Versão para Wordpress] (http://versionpress.net/)
+- [Tutorial VersionPress] (http://www.hongkiat.com/blog/wordpress-version-control/)
+- [Seis Mitos sobre Git] (http://sixrevisions.com/web-development/git-myths/)
 
 ##Books
 - [Pro Git](https://leanpub.com/pro-git)
