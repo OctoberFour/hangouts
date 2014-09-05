@@ -3,7 +3,7 @@
 Lista dos links compartilhados em nossa conversa no hangout.
 
 
-Talk do Hangout: - [Play SVG - Utilizando vetores na web](https://docs.google.com/presentation/d/1q4S0bKmyMPwAf51TisByaQQ_Rebm73Hn-AYtWKlb8Sw/pub?start=false&loop=false&delayms=3000#slide=id.p)
+Talk do Hangout: [Play SVG - Utilizando vetores na web](https://docs.google.com/presentation/d/1q4S0bKmyMPwAf51TisByaQQ_Rebm73Hn-AYtWKlb8Sw/pub?start=false&loop=false&delayms=3000#slide=id.p)
 
  
 
