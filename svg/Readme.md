@@ -26,3 +26,7 @@ Talk do Hangout: [Play SVG - Utilizando vetores na web](https://docs.google.com/
 - [D3js](http://d3js.org/)
 - [Svgjs](http://www.svgjs.com/)
   
+###Videos
+-[Create a SVG Loading Animation with Adobe Illustrator](https://www.youtube.com/watch?v=1lmFMsrLgwM)
+-[Introduction to SVG and RaphaelJS](https://www.youtube.com/watch?v=ECUhNrlyTkE)
+-[SVG Line Animation Tutorial with CSS & Other Fun Stuff](https://www.youtube.com/watch?v=XBdbgD2BaEI)
