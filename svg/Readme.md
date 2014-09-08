@@ -9,7 +9,6 @@ Talk do Hangout: [Play SVG - Utilizando vetores na web](https://docs.google.com/
 
 
 ##Links
-
 - [Tips for Creating Accessible SVG](http://www.sitepoint.com/tips-accessible-svg/)
 - [Using SVG](http://www.sitepoint.com/tips-accessible-svg/)
 - [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg)
@@ -26,7 +25,7 @@ Talk do Hangout: [Play SVG - Utilizando vetores na web](https://docs.google.com/
 - [D3js](http://d3js.org/)
 - [Svgjs](http://www.svgjs.com/)
   
-###Videos
+##Videos
 - [Create a SVG Loading Animation with Adobe Illustrator](https://www.youtube.com/watch?v=1lmFMsrLgwM)
 - [Introduction to SVG and RaphaelJS](https://www.youtube.com/watch?v=ECUhNrlyTkE)
 - [SVG Line Animation Tutorial with CSS & Other Fun Stuff](https://www.youtube.com/watch?v=XBdbgD2BaEI)
