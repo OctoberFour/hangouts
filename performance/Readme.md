@@ -52,6 +52,9 @@ Gulp  | Grunt
 - [Gulp JS: como se tornar Expert em minutos](http://morethings.io/javascript/gulpjs-como-se-tornar-expert-em-minutos/)
 - [Bye bye Grunt.js, hello Gulp.js!](http://blog.caelum.com.br/bye-bye-grunt-js-hello-gulp-js/)
 
+###Artigos Sobre o Grunt
+- [How to Measure Frontend Performance With Grunt](http://4waisenkinder.de/blog/2013/12/22/how-to-measure-frontend-performance-with-phantomas-and-grunt/)
+- 
 
 ###Plugins utilizados no Gulp
 - [Gulp-concat](https://www.npmjs.org/package/gulp-concat)
