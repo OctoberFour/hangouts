@@ -55,7 +55,6 @@ Gulp  | Grunt
 ###Artigos Sobre o Grunt
 
 - [How to Measure Frontend Performance With Grunt](http://4waisenkinder.de/blog/2013/12/22/how-to-measure-frontend-performance-with-phantomas-and-grunt/)
-- 
 
 ###Plugins utilizados no Gulp
 - [Gulp-concat](https://www.npmjs.org/package/gulp-concat)
