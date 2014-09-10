@@ -28,6 +28,7 @@ Gulp  | Grunt
 
 ##Artigos
 
+- [Complete Guide Reducing Page Weight](http://www.sitepoint.com/complete-guide-reducing-page-weight/)
 - [Tableless - Performance front-end : Parte 1](http://tableless.com.br/performance-frontend-parte1/)
 - [Tableless - Performance front-end : Parte 2](http://tableless.com.br/performance-frontend-parte2/)
 - [Gulp: O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
