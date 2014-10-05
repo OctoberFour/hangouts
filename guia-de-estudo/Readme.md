@@ -1,5 +1,5 @@
 #Dicas
----
+
 ###Dicas de estudo:
 
 1. Foque no assunto
@@ -13,21 +13,19 @@
 9. Pratique
 10. Não tenha medo de errar
 11. Contribua em algum projeto
-12. Conheça pessoas da área 
+12. Conheça pessoas da área
 13. Não peça sempre
 14. Não tente abraçar o mundo
 
----
 ##Links
 
 * [Guia Front-End das Galaxias](http://pt.slideshare.net/davidsonfellipe/guia-do-front-end-das-galaxias)
-* [How to Stay Up To Date](https://speakerdeck.com/chriscoyier/how-to-stay-up-to-date-on-web-technology) 
+* [How to Stay Up To Date](https://speakerdeck.com/chriscoyier/how-to-stay-up-to-date-on-web-technology)
 * [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
 * [O TREINAMENTO JEDI](http://www.vitorbritto.com.br/blog/the-book-is-on-the-table/)
-* [Become a Better, Faster Front-End Developer](http://webdesign.tutsplus.com/articles/become-a-better-faster-front-end-developer--webdesign-12695)  
+* [Become a Better, Faster Front-End Developer](http://webdesign.tutsplus.com/articles/become-a-better-faster-front-end-developer--webdesign-12695)
 * [Conselhos de um velho programador](https://medium.com/@davitferreira/conselhos-de-um-velho-programador-antissocial-e-ranzinza-3b32f7ba4561)
 * [Pare de ser um programador bunda mole](https://speakerdeck.com/tupy/pare-de-ser-um-programador-bunda-mole)
 
----
 ##Books
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
