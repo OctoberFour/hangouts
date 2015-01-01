@@ -16,7 +16,7 @@ São dicas para te ajudar a fazer um bom estudo, abstraindo o máximo que puder 
 
 >**Rotina:** 
 
-Tenha um cronograma para seus estudos. Não adianta estudar muito um dia e só retornar novamente aos ‘livros’ dois, três dias depois. Seja disciplinado!
+>Tenha um cronograma para seus estudos. Não adianta estudar muito um dia e só retornar novamente aos ‘livros’ dois, três dias depois. Seja disciplinado!
 
 >**Aproveite todas situações:**
 
@@ -30,15 +30,16 @@ Tenha um cronograma para seus estudos. Não adianta estudar muito um dia e só r
 
 >Pesquise sempre, procure, garimpe a internet para obter o melhor. Também tente achar as respostas das suas dúvidas sozinho, mais precisamente aquelas que são básicas, caso não consiga, pergunte a quem tem mais experiência e conhecimento do que você possui. Siga pessoas fluentes, bons desenvolvedores nas redes sociais. Mais tome 'cuidado', ser curioso não é querer saber de tudo, tenha calma e seja inteligente :) .
 
->**Siga um método de estudo**
+>**Siga um método de estudo:**
 
 >Se você tem dificuldades de concentração e de organização, então o melhor a se fazer é encaixar sua realidade em algum método de estudo ou técnica.
 
-Aqui alguns links pra te ajudar:
+###Aqui alguns links pra te ajudar:
 
 - [Pomodoro technique - English](http://pomodorotechnique.com/)
 - [As 10 melhores técnicas de estudo, segundo a ciência](http://mude.nu/estudo-10-melhores-formas/)
 - [Study techniques that work — and (surprisingly) don’t - English](http://www.washingtonpost.com/blogs/answer-sheet/wp/2013/08/27/study-techniques-that-work-and-surprisingly-dont/)
+- [Pomodoro One - APP](https://itunes.apple.com/us/app/pomodoro-one/id907364780?mt=12)
 
 ##Créditos:
 
