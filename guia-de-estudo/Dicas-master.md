@@ -17,6 +17,15 @@
 13. Não peça sempre
 14. Não tente abraçar o mundo
 
+---
+##Técnica Pomodoro
+[O que é a técnica Pomodoro e como utilizar](http://vidaorganizada.com/organizacao-pessoal/o-que-e-a-tecnica-pomodoro-e-como-utilizar/)
+[App Pomodoro p/ Windows 7](http://www.pomodoroapp.com/help/pomodoro-timer-for-windows-7/)
+[App Pomodoro p/ Linux](http://www.junauza.com/2013/08/5-pomodoro-apps-for-linux-users.html)
+[App Pomodoro p/ Mac](http://blog.equanimity.nl/blog/2014/05/08/5-great-pomodoro-apps-for-mac/)
+
+---
+
 ##Links
 
 * [Guia Front-End das Galaxias](http://pt.slideshare.net/davidsonfellipe/guia-do-front-end-das-galaxias)
